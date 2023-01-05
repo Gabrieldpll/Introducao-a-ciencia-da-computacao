@@ -1,1 +1,1 @@
-# Introdu-o-a-ci-ncia-da-computa-o-
+Introducao a ciencia da computacao
